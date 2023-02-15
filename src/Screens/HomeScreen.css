@@ -1,0 +1,31 @@
+.h1,
+.h3 {
+  text-align: center;
+  margin: 10px;
+  padding: 5px;
+  color: #112d4e;
+  text-decoration: underline;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.homescreen-h2 {
+  text-align: center;
+  margin: 10px;
+  padding: 5px;
+  font-family: "Acme", sans-serif;
+}
+
+/* .btn-outline-primary,
+.btn-outline-primary:active,
+.btn-outline-primary:visited {
+  border-color: #062c30 !important;
+  color: #062c30;
+}
+.btn-outline-primary:hover {
+  background-color: #062c30 !important;
+} */
+
+.homescreen {
+  height: 100%;
+  width: 100%;
+}
