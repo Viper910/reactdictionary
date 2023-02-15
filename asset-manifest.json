@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactdictionary/static/css/main.b344f4ce.css",
+    "main.js": "/reactdictionary/static/js/main.b1318cd5.js",
+    "index.html": "/reactdictionary/index.html",
+    "main.b344f4ce.css.map": "/reactdictionary/static/css/main.b344f4ce.css.map",
+    "main.b1318cd5.js.map": "/reactdictionary/static/js/main.b1318cd5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b344f4ce.css",
+    "static/js/main.b1318cd5.js"
+  ]
+}
